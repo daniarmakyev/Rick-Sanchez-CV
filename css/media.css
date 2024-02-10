@@ -1,0 +1,77 @@
+@media screen and (max-width:595px) {
+    .rick__shop__blocks {
+        justify-content: center;
+    }
+
+    .rick__about__inner {
+        flex-wrap: wrap;
+        justify-content: start;
+        
+    }
+
+    .rick__about__personal {
+        max-width: 100% !important;
+    }
+     .rick__about__skills {
+        max-width: 100%;
+     }
+     .main__block {
+        padding-top: 50px;
+     }
+
+     .main__block__inner {
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+     }
+
+     .nav {
+        flex-wrap: wrap;
+     }
+
+     .main__block__left {
+        padding-left: 15px;
+        max-width: 100%;
+     }
+
+     .main__block__left h1 {
+        font-size:25px;
+        max-width: 100%;
+     }
+
+     .main__block__right img {
+        margin-top: 0px;
+     }
+
+     .main__block__left p {
+        font-size: 10px;
+        width: 100%;
+     }
+
+     .promotion__left {
+        padding: 0;
+        padding-bottom: 15px;
+     }
+
+     .promotion__left h2 {
+        font-size: 20px;
+     }
+ .promotion__left p  {
+    font-size: 10px;
+ }
+     .promotion__inner {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+     }
+
+     .promotion__right img {
+        display: inline-block;
+     }
+
+    .promotion__left img {
+        
+        display: none;
+    }
+}
