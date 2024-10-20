@@ -138,6 +138,8 @@ body {
     height: 50px;
     animation: shipRun 3s linear infinite;
     cursor: pointer;
+    overflow: hidden;
+    position: absolute;
 }
 
 .animet__block img:hover {
@@ -266,18 +268,15 @@ body {
 
 .rick__shop__item button:hover {
     background-color: black;
-    border: none;
     color: #fff;
     background-size: 100px;
 }
-
-
 
 .rick__shop__item button a {
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
-.rick__shop__item button a:hover {
+.rick__shop__item button:hover a{
     color: #fff;
 }
 .rick__shop__item img{
