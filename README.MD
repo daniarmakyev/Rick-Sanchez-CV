@@ -7,8 +7,8 @@
 <img src="./images/bg/burger.png" style="max-width:320px;" />
 
 ## 350px
-<img src="./images/bg/minibot.png" style="max-width:320px;" />
-<img src="./images/bg/minibott.png" style="max-width:320px;" />
+<img src="./images/bg/minibot.png" style="max-width:120px;" />
+<img src="./images/bg/minibott.png" style="max-width:120px;" />
 ## Технологии
 
 - HTML5
