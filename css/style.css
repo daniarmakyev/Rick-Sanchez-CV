@@ -130,7 +130,9 @@ body {
 }
 
 
-
+.animet__block {
+    position: absolute;
+}
 
 .animet__block img {
     display: inline-block;
